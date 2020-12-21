@@ -1,0 +1,128 @@
+.top{
+    flex-direction: row;
+}
+
+
+
+
+
+.top1{
+    background-image: url('/img/nitk2.jpg');
+    background-repeat: repeat-x;
+    margin: 0;
+    /* margin-left: 2px; */
+    /* margin-right: 2px; */
+    height: 250px;
+    width: 1020px;
+    /* padding: 24px; */
+    display: inline-block;
+    float: right;
+    border: 3px solid rgb(29, 27, 27);
+    
+}
+
+.logo{
+    background-image: url('/img/nitk.png');
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    /* float: left; */
+    border: 3px solid rgb(29, 27, 27);
+}
+
+.top2{
+    background-image: url('/img/takesh.jpg');
+    background-repeat: no-repeat;
+    /* background-attachment: local; */
+    background-color: rgb(240, 221, 193);
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 0px;
+    height: 1300px;
+    width: 1300px;
+    /* padding-top: 60px; */
+    display: flex;
+    flex-direction: column;
+    float: left;
+    border: 3px solid rgb(20, 18, 18);
+    
+}
+
+.contact{
+    float: left;
+    margin-top: -9px;
+    margin-left: 140px;
+    margin-right: 900px;
+    /* border: 2px solid black; */
+    font-size: medium;
+}
+
+.contact2{
+    float: right;
+    margin-top: -100px;
+    margin-left: 1000px;
+    margin-right: 0px;
+    /* border: 2px solid black; */
+    font-size: medium;
+}
+
+#name{
+    color: rgb(42, 50, 77);
+    float: left;
+    margin-top: 2px;
+    margin-left: 140px;
+    margin-right: 900px;
+    padding-left: 0px;
+    /* border: 2px solid black; */
+}
+
+.eitems{
+    font-size: medium;
+    /* border: 2px solid black; */
+    margin-left: 250px;
+    margin-top: -60px;
+    margin-right: 600px;
+}
+
+.score{
+    font-size: medium;
+    /* border: 2px solid black; */
+    margin-left: 800px;
+    margin-top: -220px;
+    margin-right: 300px;
+}
+
+.sitems{
+    font-size: medium;
+    /* border: 2px solid black; */
+    margin-left: 250px;
+    margin-top: -60px;
+    margin-right: 600px;
+}
+
+.iitems{
+    font-size: medium;
+    /* border: 2px solid black; */
+    margin-left: 250px;
+    margin-top: -60px;
+    margin-right: 600px;
+}
+
+.pitems{
+    font-size: medium;
+    /* border: 2px solid black; */
+    margin-left: 250px;
+    margin-top: -60px;
+    margin-right: 400px;
+}
+
+.hitems{
+    font-size: medium;
+    /* border: 2px solid black; */
+    margin-left: 250px;
+    margin-top: -60px;
+    margin-right: 400px;
